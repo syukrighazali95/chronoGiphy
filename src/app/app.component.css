@@ -1,0 +1,18 @@
+nav{
+    background-color: black;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.input_text {
+    background-color: orange;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.card-columns {
+    padding: 20px;
+}
